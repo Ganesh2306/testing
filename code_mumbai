@@ -24,3 +24,8 @@ def string_test():
     print(f"Uppercase String: {upper_string}")
     print(f"Lowercase String: {lower_string}")
 
+# Running the tests
+arithmetic_test()
+string_test()
+
+
