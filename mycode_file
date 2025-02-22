@@ -1,0 +1,10 @@
+# Testing basic operations
+
+# 1. Arithmetic Test
+def arithmetic_test():
+    a = 10
+    b = 5
+    addition = a + b
+    subtraction = a - b
+    multiplication = a * b
+    division = a / b
