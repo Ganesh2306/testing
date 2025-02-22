@@ -12,3 +12,15 @@ def arithmetic_test():
     print(f"Subtraction: {subtraction}")
     print(f"Multiplication: {multiplication}")
     print(f"Division: {division}")
+
+ 2. String Manipulation Test
+def string_test():
+    sample_string = "Hello, World!"
+    reversed_string = sample_string[::-1]
+    upper_string = sample_string.upper()
+    lower_string = sample_string.lower()
+    print(f"Original String: {sample_string}")
+    print(f"Reversed String: {reversed_string}")
+    print(f"Uppercase String: {upper_string}")
+    print(f"Lowercase String: {lower_string}")
+
